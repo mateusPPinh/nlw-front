@@ -1,6 +1,8 @@
 
 NLW#1 Ecoleta Frontend
 
+- Typescript - NodeJS (TS) - React JS
+
 ![Screen Shot 2020-06-09 at 00 01 02](https://user-images.githubusercontent.com/39891863/84101832-4a74e080-a9e5-11ea-866c-c60397b27d05.png)
 
 ![Screen Shot 2020-06-09 at 00 06 11](https://user-images.githubusercontent.com/39891863/84101878-5eb8dd80-a9e5-11ea-96a7-2d08071d840f.png)
