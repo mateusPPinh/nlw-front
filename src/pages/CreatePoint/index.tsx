@@ -5,6 +5,8 @@ import axios from "axios";
 import { LeafletMouseEvent } from "leaflet";
 import { Link, useHistory } from "react-router-dom";
 
+import Dropzone from '../../components/Dropzone';
+
 import api from "../../services/api";
 import MessageOk from '../../components/Success-Message';
 
@@ -186,6 +188,8 @@ const CreatePoint: React.FC = () => {
         <h1>
           Cadastro do <br /> ponto de coleta
         </h1>
+
+        <Dropzone />
 
         <fieldset>
           <legend>
